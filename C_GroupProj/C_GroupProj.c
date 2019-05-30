@@ -95,7 +95,14 @@ int main (void)
 ***************************************************************************************************************************************************************/
 void print_menu(void)
 {
-    printf("This program does ... \n");
+    printf("  ________ .________ \n");
+    printf(" /  _____/ |   ____/ \n");
+    printf("/   \\      |____  \\  \n");
+    printf("\\    \\_\\  \\/       \\ \n");
+    printf(" \\______  /______  / \n");
+    printf("        \\/       \\/  \n");
+    printf("\n");
+    printf("----Welcome to G5----\n");
     printf("Select from the following options:\n");
     printf("1. Login\n");
     printf("2. Register\n");
