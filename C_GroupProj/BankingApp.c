@@ -21,6 +21,14 @@ void BankingApp(void)
 
 void print_start_menu(void)
 {
+	printf("  ________ .________ \n"
+        " /  _____/ |   ____/ \n"
+        "/   \\  ___ |____  \\  \n"
+        "\\    \\_\\  \\/       \\ \n"
+        " \\______  /______  / \n"
+        "        \\/       \\/  \n");
+        printf("\n");
+        printf("--------Welcome to G5--------\n");
 	printf("\n"
 	"1.    Login\n"
 	"2.    Register\n"
